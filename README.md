@@ -57,11 +57,11 @@ Onde **UserID** é o id do cliente e **ordered** é a resposta se o cliente fez 
 
 ## Estrutura do Diretório
 ```
-│   Customer propensity to purchase.ipynb
+│   Customer propensity to purchase.ipynb  #script com EDA e teste com diferentes técnicas
+│   Customer propensity_just model.py #script com implementação da técnica escolhida no jupyter notebook
 │   README.md
 │
 └───dados
-        New Text Document.txt
         testing_sample.csv
         training_sample.csv
 ```
